@@ -9,4 +9,5 @@
 - .get() is the safe way of extracting data. Returns None if it doesn't exist
 - The best way to build a pipeline is to follow the data. Building so each piece can be tested at
 the stage it was built.
+- async allows for us to use await
 
